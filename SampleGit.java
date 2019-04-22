@@ -1,3 +1,8 @@
-class SampleGit
-{
-}
+ class SampleGit
+ {
+   public static void main(String args[])
+    
+    {
+	}
+
+ }
